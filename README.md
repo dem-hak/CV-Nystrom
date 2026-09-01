@@ -1,1 +1,1 @@
-Update the configs in MultiResDrift() to reproduce experiment results
+Update the configs in MultiResDriftConfig class to reproduce experiment results
